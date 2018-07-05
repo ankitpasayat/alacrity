@@ -1,6 +1,5 @@
 import setuptools
 
-#hi
 with open("README.md", "r") as file_obj:
     long_description = file_obj.read()
 
